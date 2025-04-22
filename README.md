@@ -13,11 +13,8 @@
 
 ---
 
-### 🧰 Tech Stack
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,java,scala,aws,terraform,git,githubactions" />
-
 </p>
 
 ---
