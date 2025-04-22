@@ -14,9 +14,15 @@
 ---
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,scala,aws,terraform,git,githubactions" />
+
+  <img src="https://skillicons.dev/icons?i=python,java,scala,docker,arduino,raspberrypi,redhat,github,aws,terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" height="40" alt="Snowflake" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" height="40" alt="Databricks" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trino.svg" height="40" alt="Trino" />
+
+
 </p>
 
----
 
 > _"The soul becomes dyed with the color of its thoughts."_ — **Marcus Aurelius**
