@@ -1,7 +1,7 @@
 <h1 align="left">Hey there 👋, I'm Susheel</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4AB4F7&center=true&width=435&lines=Working;Working+Quite+Hard;Working+Consistently" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4AB4F7&center=true&width=435&lines=Loading.;Loading..;Still+Loading...;Yup,+Still+Loading...!" alt="Typing SVG" />
 </p>
 
 <p align="left">
