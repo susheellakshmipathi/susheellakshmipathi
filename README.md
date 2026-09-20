@@ -1,3 +1,3 @@
 # Susheel Lakshmipathi
 
-[Portfolio](http://susheellakshmipathi.com) · [LinkedIn](https://www.linkedin.com/in/susheellakshmipathi/)
+[Portfolio](https://www.susheellakshmipathi.com/) · [LinkedIn](https://www.linkedin.com/in/susheellakshmipathi/)
